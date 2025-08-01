@@ -1,3 +1,5 @@
 # Code-with-rudra
 hello currently i learn github
-auther-Rudra
+<br>
+Auther-Rudra Narayan Sahu
+<b>Code with Rudra</b>
